@@ -1,5 +1,6 @@
 Pro:
-- closer to earth
+- Closer to earth
+- Shiny
 
 Con:
 - wolfman would go crazy
